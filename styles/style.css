@@ -1,0 +1,45 @@
+h1{
+	font-size: 64px;
+	color: red;
+	text-align: center;
+}
+.bluebackground{
+	background-color: grey;
+	border: 5px solid orange;
+	padding: 15px;
+	margin: 20px;
+	border-radius: 30px;
+}
+.stuff{
+	background-color: orange;
+	height: 200px;
+	width: 50%;
+	float: left;
+}
+
+.things{
+	background-color: pink;
+	height: 200px;
+	width: 50%;
+	float: left;
+}
+
+.cenetered{
+	background-color: red;
+	height: 200px;
+	width: 50%;
+	margin: auto;
+	border-radius: 3px;
+}
+
+#paragraph{
+	clear: both;
+}
+
+#header1{
+	font-size: 64px;
+}
+
+a{
+	text-decoration: none;
+}
